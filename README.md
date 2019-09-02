@@ -1,5 +1,6 @@
 ## Overview
 Delete old drivers using Get-WindowsDriver function.
+
 If you want only to display out-dated drivers, comment
 
 <code>
