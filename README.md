@@ -1,11 +1,7 @@
 ## Overview
 Delete old drivers using Get-WindowsDriver function.
 
-If you want only to display out-dated drivers, comment
-
-<code>
-& pnputil.exe /delete-driver "$Name" /force
-</code>
+If you want only to display out-dated drivers, comment `& pnputil.exe /delete-driver "$Name" /force` line
 
 ## GUI
 If prefer GUI
