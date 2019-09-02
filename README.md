@@ -9,8 +9,7 @@ If you want only to display out-dated drivers, comment
 
 ## GUI
 If prefer GUI
-- [DriverStoreExplorer
-](https://github.com/lostindark/DriverStoreExplorer)
+- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer)
 
 ## Inspired by
 - [Habr](https://habr.com/ru/post/319152/)
