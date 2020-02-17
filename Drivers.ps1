@@ -1,4 +1,4 @@
-$OriginalFileName = @{
+﻿$OriginalFileName = @{
 	Name = "OriginalFileName"
 	Expression = {$_.OriginalFileName | Split-Path -Leaf}
 }
