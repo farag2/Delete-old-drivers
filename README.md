@@ -6,10 +6,8 @@ If you want only to display drivers to uninstall, comment out line `& pnputil.ex
 
 ## GUI
 
-If prefer GUI
-
-- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer)
+If prefer GUI: [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer)
 
 ## Inspired by
 
-- [Habr](https://habr.com/ru/post/319152/)
+[Habr](https://habr.com/ru/post/319152/)
