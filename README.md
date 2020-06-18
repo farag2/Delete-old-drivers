@@ -12,4 +12,4 @@ If prefer GUI: [DriverStoreExplorer](https://github.com/lostindark/DriverStoreEx
 
 ## Inspired by
 
-[Habr](https://habr.com/ru/post/319152/)
+[Habr](https://habr.com/en/post/319152/)
